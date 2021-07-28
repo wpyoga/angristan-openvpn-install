@@ -1,3 +1,5 @@
+> This branch is a proof-of-concept modularized fork of the master branch from [angristan/openvpn-install](https://github.com/angristan/openvpn-install). The original script `openvpn-install.sh` is unmodified, and the modularized script is `openvpn-install-split.sh`. With [merge-shell](https://github.com/wpyoga/merge-shell) installed, the correctness of the modularization process can be verified by running `make test` in this directory.
+
 # openvpn-install
 
 ![Test](https://github.com/angristan/openvpn-install/workflows/Test/badge.svg)
